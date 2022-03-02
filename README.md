@@ -23,7 +23,7 @@ Please follow this tips to install the package:
 * You should to downlaod This modules:
 
 By write in Terminal: ->
-* sudo pip3 install <name the module
+* sudo pip3 install <name the module>
 
 1)ftplib
 
