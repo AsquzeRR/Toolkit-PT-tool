@@ -20,7 +20,10 @@ Please follow this tips to install the package:
 
 * if you have pip on kali linux dont install it agin
 
-* You should to downlaod Imports:
+* You should to downlaod This modules:
+
+By write in Terminal: ->
+* sudo pip3 install <name the module
 
 1)ftplib
 
