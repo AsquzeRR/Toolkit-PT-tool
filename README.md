@@ -10,31 +10,58 @@ of your company, or if you are a student who wants to know some new things, so y
 
 --------------------------------------------------------------------------------
 Usage:
+
 Please follow this tips to install the package:
+
 1)sudo git clone https://github.com/asquzerr/package-PT-tool
+
 2)apt-get install python-pip
+3) apt-get install python3-scapy
+
 * if you have pip on kali linux dont install it agin
+
 * You should to downlaod Imports:
+
 1)ftplib
+
 2)socket
+
 3)sys
+
 4)datetime
+
 5)requests
+
 6)paramiko
+
 7)pyfiglet
-8)scapy.all
-9)scapy
-10)os
-11)time
-12)subprocess
+
+8)scapy
+
+9)os
+
+10)time
+
+11)subprocess
+
+
 
 Tools:
+
 0.Check online IPs in network
+
 1.Scan network or IP like Nmap
+
 2.Brute-Force on port 22
+
 3.Brute-Force on port 21
+
 4.Brute-Force For sites
+
 5.Ping ARP
+
 6.Ping ICMP
+
 7.MITM attack
+
 * to end the program Type 9
