@@ -9,7 +9,7 @@ Please note that this tool is only used for educational purposes.
 
 **Please follow this tips to install the toolkit:**
 
-```sudo git clone https://github.com/asquzerr/package-PT-tool```
+```git clone https://github.com/AsquzeRR/Toolkit-PT-tool.git```
 
 ```apt-get install python3-pip```
 
