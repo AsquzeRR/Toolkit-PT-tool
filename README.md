@@ -34,8 +34,11 @@ Please note that this tool is only used for educational purposes.
 ***Tools:***
 
 0.Check online IPs in network
+
 1.Scan network or IP like Nmap
+
 2.Brute-Force on port 22
+
 3.Brute-Force on port 21
 
 4.Brute-Force For sites
