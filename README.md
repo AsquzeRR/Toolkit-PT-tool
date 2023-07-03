@@ -11,11 +11,11 @@ Please note that this tool is only used for educational purposes.
 
 ```sudo git clone https://github.com/asquzerr/package-PT-tool```
 
-```apt-get install python-pip```
+```apt-get install python3-pip```
 
-```apt-get install python3-scapy```
+```pip3 install -r requirements.txt```
 
-***The used libraries:***
+***libraries:***
 
 >ftplib,
 >socket,
