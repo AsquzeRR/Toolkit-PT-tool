@@ -12,11 +12,17 @@ import time
 import subprocess
 ascii_banner = pyfiglet.figlet_format("Thaer Tool")
 print(ascii_banner)
-print("Welcome,\n"
-      "This Tool only for Pentertion testing, I am not responsible for any illegal action that is used in it \n"
-      "I wish you a happy examination\n"
-"My tool It is about some types of penetration to help you know the possible gaps in your site or in the infrastructure \n"
-"of your company, or if you are a student who wants to know some new things, so you can use this package that contains the best tools")
+print("""
+Welcome to the Penetration Testing Tool!
+
+Disclaimer: This tool is intended for ethical penetration testing purposes only. Any illegal or unauthorized activities conducted using this tool are strictly prohibited. The developer of this tool assumes no responsibility for misuse or any damages caused.
+
+We aim to provide a comprehensive suite of tools for analyzing the security of your website or company infrastructure. Whether you are a professional looking to identify vulnerabilities or a student seeking to expand your knowledge, our package offers a collection of top-notch tools.
+
+Please proceed with caution and adhere to ethical guidelines while using this tool. Remember to obtain proper authorization before conducting any security assessments.
+
+Thank you for choosing our Penetration Testing Tool. We wish you a successful and enlightening examination!
+""")
 
 
 class Ether:
