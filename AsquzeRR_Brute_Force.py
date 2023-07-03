@@ -10,7 +10,7 @@ import scapy.all as scapy
 import os
 import time
 import subprocess
-ascii_banner = pyfiglet.figlet_format("Thaer Tool")
+ascii_banner = pyfiglet.figlet_format("AsquzeRR Brute Force")
 print(ascii_banner)
 print("""
 Welcome to the Penetration Testing Tool!
