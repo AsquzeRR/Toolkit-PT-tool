@@ -1,8 +1,12 @@
-# package-PT-tool
-using this toolkit you could enumrate and scan Operating Systems and getting shell, it contains BruteForce for SSH and FTP and you will be able to get shell after finding the correcr creditnails, you can check whether an IP address is used by another device on a LAN by using the Ping ARP Tool.
+# Package-Brute-Force-Tool
+This toolkit is designed for educational purposes, helping students explore various aspects of cybersecurity. It enables you to:
 
-if you are a student who wants to know some new things, so you can use this toolkit that takes you through a lot of good cyber Securoty implementations.
-Please note that this tool is only used for educational purposes.
+    Enumerate and scan operating systems.
+    Perform brute-force attacks on SSH and FTP services.
+    Gain shell access upon successful credential discovery.
+    Determine if an IP address is in use by another device on a local area network using the Ping ARP Tool.
+
+Please remember that this toolkit should only be used for learning and educational purposes.
 
 
 # Usage:
@@ -29,7 +33,7 @@ Please note that this tool is only used for educational purposes.
 >time,
 >subprocess,
 
-Toolkit-PT-tool is a comprehensive package designed for penetration testing and network security assessment. It includes a range of useful tools and functionalities to assist cybersecurity professionals in conducting various tests and analyses. Here is a breakdown of the features included in the Toolkit-PT-tool package:
+Package-Brute-force-Tool is a comprehensive package designed for penetration testing and network security assessment. It includes a range of useful tools and functionalities to assist cybersecurity professionals in conducting various tests and analyses. Here is a breakdown of the features included in the Toolkit-PT-tool package:
 
 Check online IPs in network: This feature allows you to scan the network and identify active IP addresses that are currently online. It provides valuable information about the devices connected to the network.
 
